@@ -1,2 +1,2 @@
 # broomchatapp.github.io
-Broom Chat app with personalize room for you and your buddies
+Broom Chat app with personalize rooms for you and your buddies.
